@@ -23,5 +23,5 @@ Most of the resources are prepared locally, hope you can enjoy.
 - Sauce:
   - HotSauce: or Buy the 火锅料(Hotpot Sauce) At "Comida Chino"
   - Vinegar: Italian Vinegar or Buy the 恒顺香醋 At "Comida Chino"
-  - Sesame: to be found
-  - Cilantro: Supermaxi
+  - Sesame: to be found
+  - Cilantro: Supermaxi
