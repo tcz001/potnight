@@ -9,7 +9,7 @@ Most of the resources are prepared locally, hope you can enjoy.
 - Kitchenware:
   - Cocina eléctrica: Supermaxi
   - Bower for Sauce: Supermaxi
-  - Chopsticks: Supermaxi
+  - Chopsticks: Comida chino
 - Food:
   - Piel de cerdo frita: Mercado de Iñaquito
   - Shrimp Ball: Camaron at Mercado de Iñaquito, and DIY
@@ -23,5 +23,5 @@ Most of the resources are prepared locally, hope you can enjoy.
 - Sauce:
   - HotSauce: or Buy the 火锅料(Hotpot Sauce) At "Comida Chino"
   - Vinegar: Italian Vinegar or Buy the 恒顺香醋 At "Comida Chino"
-  - Sesame: Supermaxi
-  - Cilantro: Supermaxi
+  - Sesame: to be found
+  - Cilantro: Supermaxi
